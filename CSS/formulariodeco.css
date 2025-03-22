@@ -1,0 +1,20 @@
+header {
+    background-color: #d64848;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    display: grid;
+    
+}
+footer{
+    background-color:#d64848 ;
+    color: white;
+    padding: 20px;
+    text-align: left;
+
+}
+
+.inconos{
+    margin-right: 20px;
+}

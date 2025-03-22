@@ -1,0 +1,7 @@
+.caja{
+  background-color: #631515;
+  width: 200px;
+  height: 200px;
+  box-shadow: -20px 20px 5px gray;
+  border-radius: 50px 0px 60px 20px;
+}

@@ -1,0 +1,30 @@
+.caja1{
+    width: 400px;
+    border: 2px solid;
+    padding: 90px;
+    margin: 10px 50px 20px 150px;
+    background: linear-gradient(to right, yellow, orange);
+    border-top: 10px solid red;
+    border-right: 10px solid rgb(183, 0, 255);
+    border-bottom: 10px solid rgb(58, 164, 193);
+    border-left: 10px solid rgb(125, 42, 117);
+    
+}
+
+.caja2{
+    width: 400px;
+    border: 2px solid;
+    padding: 90px;
+    margin: 10px 50px 20px 150px;
+    background-color: black;
+    border: 10px solid;
+    border-image-source: linear-gradient(to right, red, blue);
+    border-image-slice: 1;
+
+
+}
+
+p{
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+}
+
+.caja{
+    width: 400px;
+    border: 2px solid;
+    padding: 10px;
+    margin: 50px;
+    box-sizing: border-box;
+    position: relative;
+    top: 40px;
+}
+
+
+  
+    
+       
